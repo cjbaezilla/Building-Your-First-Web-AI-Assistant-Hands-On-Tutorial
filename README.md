@@ -1,12 +1,22 @@
 # Building Your Own Web AI Assistant: A Complete Hands-On Guide with CodeIgniter4, Next.js, and OpenRouter
 
+![Cover](./1.jpg)
+
 A fully functional AI-powered chat application built with CodeIgniter 4 on the backend and Next.js 16 on the frontend. This project connects to OpenRouter's AI API to provide intelligent conversations through a modern, responsive interface.
+
+1. 📢 **LinkedIn announcement**: https://www.linkedin.com/posts/carlos-baeza-negroni_technology-tech-innovation-activity-7433183610213560320-8oQI
+2. 📖 **Read the article directly on LinkedIn**: https://www.linkedin.com/pulse/building-your-own-web-ai-assistant-complete-hands-on-baeza-negroni-bcp4f
+3. 🐦 **X/Twitter Announcement**: https://x.com/cjbaezilla/status/2027435454895710330
+
+![Chat](./chat.jpg)
 
 ## What You Can Build With This
 
 This project gives you a solid foundation for building AI-powered features into web applications. The architecture demonstrates how to securely connect a frontend to external AI services while keeping your API keys protected on the server side. You will have a working chat interface where users can send messages and receive responses from AI models, and everything runs locally on your machine for development before you deploy it to production.
 
 The beauty of this setup is that you can extend it in countless directions. Want to add user authentication to track conversation history? The backend is ready for that. Want to switch to a different AI model? Just change a few lines in the controller. Want to add streaming responses for a more interactive feel? The foundation is there. This project grows with your ambitions.
+
+![Usage](./usage.jpg)
 
 ## Technology Overview
 
