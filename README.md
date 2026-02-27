@@ -4,11 +4,11 @@
 
 A fully functional AI-powered chat application built with CodeIgniter 4 on the backend and Next.js 16 on the frontend. This project connects to OpenRouter's AI API to provide intelligent conversations through a modern, responsive interface.
 
+![Chat](./chat.jpg)
+
 1. 📢 **LinkedIn announcement**: https://www.linkedin.com/posts/carlos-baeza-negroni_technology-tech-innovation-activity-7433183610213560320-8oQI
 2. 📖 **Read the article directly on LinkedIn**: https://www.linkedin.com/pulse/building-your-own-web-ai-assistant-complete-hands-on-baeza-negroni-bcp4f
 3. 🐦 **X/Twitter Announcement**: https://x.com/cjbaezilla/status/2027435454895710330
-
-![Chat](./chat.jpg)
 
 ## What You Can Build With This
 
