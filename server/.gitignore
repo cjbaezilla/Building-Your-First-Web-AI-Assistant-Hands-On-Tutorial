@@ -1,0 +1,119 @@
+#-------------------------
+# Operating System Files
+#-------------------------
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+# Linux
+*~
+
+#-------------------------
+# IDE Files
+#-------------------------
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PhpStorm
+.idea/
+
+# NetBeans
+nbproject/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+#-------------------------
+# CodeIgniter Specific
+#-------------------------
+
+# Ignore application/cache directory
+application/cache/*
+!application/cache/index.html
+
+# Ignore application/logs directory
+application/logs/*
+!application/logs/index.html
+
+# Ignore writable directory contents
+writable/debugbar/*
+writable/logs/*
+writable/session/*
+writable/uploads/*
+writable/cache/*
+!writable/debugbar/.gitkeep
+!writable/logs/.gitkeep
+!writable/session/.gitkeep
+!writable/uploads/.gitkeep
+!writable/cache/.gitkeep
+
+#-------------------------
+# Environment Files
+#-------------------------
+
+.env
+.env.local
+.env.*.local
+
+#-------------------------
+# Composer
+#-------------------------
+
+vendor/
+composer.lock
+
+#-------------------------
+# Node.js / NPM
+#-------------------------
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+#-------------------------
+# Testing
+#-------------------------
+
+.phpunit.result.cache
+.phpunit.cache/
+coverage/
+
+#-------------------------
+# Build Files
+#-------------------------
+
+build/
+dist/
+*.zip
+*.tar.gz
+
+#-------------------------
+# Temporary Files
+#-------------------------
+
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+*~
